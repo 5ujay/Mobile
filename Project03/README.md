@@ -26,7 +26,7 @@ Ensure you have the following installed:
 
 ### 2️⃣ Clone the Repository
 ```sh
-git clone [https://github.com/your-username/password-generator-rn-cli.git](https://github.com/5ujay/React-Native/tree/main/Project03)
+git clone https://github.com/5ujay/React-Native/tree/main/Project03
 cd password-generator-rn-cli
 ```
 
