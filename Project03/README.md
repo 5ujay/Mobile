@@ -73,5 +73,5 @@ password-generator-rn-cli/
 ---
 
 ## 🏆 Credits
-Developed by **Your Name** 🚀
+sujay pagam 🚀
 

@@ -92,6 +92,5 @@ Project02/
 ---
 
 ## 🏆 Credits
-
-Developed by **Your Name** 🚀
+sujay pagam 🚀
 
