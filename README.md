@@ -1,0 +1,9 @@
+# ⚛️ React Native Complete  
+
+This repository contains multiple **React Native CLI** projects covering different aspects of app development:  
+
+### 🚀 **Awesome01 - React Native Setup & Installation**  
+
+### 🎨 **Project02 - UI Design & Styling**  
+
+### 🔐 **Project03 - Password Generator App**  
