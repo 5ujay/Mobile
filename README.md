@@ -7,3 +7,5 @@ This repository contains multiple **React Native CLI** projects covering differe
 ### 🎨 **Project02 - UI Design & Styling**  
 
 ### 🔐 **Project03 - Password Generator App**  
+
+### 🔐 **Project04 - Random Color Generator With Diffrent Patterns**  
