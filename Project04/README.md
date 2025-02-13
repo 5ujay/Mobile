@@ -19,7 +19,7 @@ A simple React Native CLI app that randomly changes the background color and sha
 ## 🚀 Installation & Setup
 1. 🔽 Clone the repository:
    ```sh
-   git clone https://github.com/your-username/random-color-generator.git
+   git clone https://github.com/5ujay/React-Native/tree/main/Project04
    cd Project04
    ```
 2. 📦 Install dependencies:
